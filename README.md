@@ -23,10 +23,9 @@
 - 这里还有一个[互助文档](https://docs.qq.com/sheet/DUUlEWVBoVHhlZmVO?tab=BB08J2&u=ab251f78845d4ad988fe19c14e07b89c)，不过比较乱，仅供参考，以后我会逐渐把里面的内容加入本项目中，大家可以先凑合看
 ---
 # 附
-### 协议：[署名-非商业性使用-相同方式共享 4.0 国际 (CC BY-NC-SA 4.0) 协议](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)
-### 管理员
+### 协助开发者
 - 北京邮电大学计算机学院（国家示范性软件学院）计算机类 大一 王若竹
-  - 联系方式：sherlocked_hzoi@bupt.edu.cn（一般早8:00-晚22:00都是在线的，最多一天之内就会回复）
+  - 联系方式：sherlocked_hzoi@bupt.edu.cn（一般晚上回复）
 ### 北京邮电大学公选课相关规定
 - 第一周为试听周，会对课程进行退补选
 - 第一周后课程参加人数 $\leq 20$ 的课程本学期将停止开课
